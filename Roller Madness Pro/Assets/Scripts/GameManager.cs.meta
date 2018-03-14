@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 78f1639a477254614b325291560d5739
+timeCreated: 1449768308
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - scoreBoardCanvas: {instanceID: 0}
+  - scoreBoardDisplay: {instanceID: 0}
+  - coinSpawner: {instanceID: 0}
+  - enemySpawner: {instanceID: 0}
+  - livesCanvas: {instanceID: 0}
+  - livesDisplay: {instanceID: 0}
+  - gameStartCanvas: {instanceID: 0}
+  - ExtraHint2: {instanceID: 0}
+  - gameOverCanvas: {instanceID: 0}
+  - gameOverScoreDisplay: {instanceID: 0}
+  - beatLevelCanvas: {instanceID: 0}
+  - beatLevelDisplay: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - scene2Loop1: {instanceID: 0}
+  - scene2Loop2: {instanceID: 0}
+  - gameOverSFX: {instanceID: 0}
+  - leve1VictorySFX: {instanceID: 0}
+  - leve2Victory1SFX: {instanceID: 0}
+  - leve2Victory2SFX: {instanceID: 0}
+  - beatLevelSFX: {instanceID: 0}
+  - levelTransitionSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
